@@ -1,5 +1,5 @@
 <?php
-namespace Notificacao;
+namespace Ecompassaro\Notificacao;
 
 trait NotificacoesContainerTrait
 {
