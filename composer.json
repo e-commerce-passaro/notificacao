@@ -1,10 +1,10 @@
 {
   "name" : "e-commerce-passaro/notificacao",
   "description" : "Biblioteca para notificação com tipos: alerta, erro, informação e sucesso.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type":"library",
   "homepage":"https://github.com/e-commerce-passaro/notificacao",
-  "time":"2017-04-12 11:59:01",
+  "time":"2017-04-12 12:07:02",
   "license":"GPL-3.0+",
   "authors":[{
 	"name":"Marcel Bezerra da Silva",
