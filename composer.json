@@ -1,0 +1,29 @@
+{
+  "name" : "e-commerce-passaro/notificacao",
+  "description" : "Biblioteca para notificação com tipos: alerta, erro, informação e sucesso.",
+  "version": "1.0.0",
+  "type":"library",
+  "homepage":"https://github.com/e-commerce-passaro/notificacao",
+  "time":"2017-04-12 11:59:01",
+  "license":"GPL-3.0+",
+  "authors":[{
+	"name":"Marcel Bezerra da Silva",
+	"email":"marcelbzrra@gmail.com",
+	"role":"developer"
+  }],
+  "support": {
+  	"email":"marcelbzrra@gmail.com",
+  	"issues":"https://github.com/e-commerce-passaro/notificacao/issues",
+  	"wiki":"https://github.com/e-commerce-passaro/notificacao/wiki",
+  	"source":"https://github.com/e-commerce-passaro/notificacao/releases"
+  },
+  "require" : {
+    "php" : ">=7.0"
+  },
+  "keywords" : [ "e-commerce-passaro", "zf3", "ecommerce", "notificacao" ],
+  "autoload": {
+        "psr-4": {
+            "Ecompassaro\\Notificacao\\": "./src/Notificacao"
+        }
+  }  
+}
